@@ -33,4 +33,15 @@
         android:inputType="textPassword"
         tools:layout_editor_absoluteX="51dp"
         tools:layout_editor_absoluteY="260dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="FirstMethod"
+        android:text="start"
+        tools:layout_editor_absoluteX="108dp"
+        tools:layout_editor_absoluteY="345dp" />
+
+
 </android.support.constraint.ConstraintLayout>
